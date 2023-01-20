@@ -1,4 +1,4 @@
-# TF_azurerm_subnet_module
+# Azurerm_subnet
 
 Deploy Azure Subnet with a dedicated Terraform module.
 
